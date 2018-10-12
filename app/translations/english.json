@@ -1,0 +1,206 @@
+{
+  "IndexPage": {
+    "CallToAction": "See Plant Tour",
+    "MainBar": {
+      "SlideOneTitle": "EASIEST",
+      "SlideOneBody": "Simpily add a single dose, no down time swim immediately",
+      "SlideTwoTitle": "POOL CARE",
+      "SlideTwoBody": "Spend less time maintaining your pool and more time enjoying it",
+      "SlideThreeTitle": "EVER",
+      "SlideThreeBody": "Our motto has always been that great water treatment products simplify and provide outstanding results without confusion."
+    }
+  },
+  "AboutUs": {
+    "Title": "About the Mcgrayel Company",
+    "Body": "McGrayel Company began operations on January 2, 1978 at our original location at 3386 S. Maple Ave. In Fresno. The company operated from this modest facility for nearly 23 years. In December 2000, we relocated to our new property at 5361 S. Villa Ave. in the Three Crowns Industrial Park in South Fresno. This larger 10,000 square foot facility allowed production for both plant and office operations in one location. This property acreage also provides for significant expansion capabilities for the future. This initial small scale operation began in 1978 to serve customers in the industrial water treatment industry such as food processing facilities, cold storage operations, canneries, and HVAC cooling and heating industry. By 1980, several part-time employees joined the company to help with office, technical services, and production operations. Our products were eventually transformed from very simple phosphate based scale and corrosion inhibitor products to more sophisticated products utilizing chemical technologies from some of the largest manufacturers of specialty chemicals. In the early 1980s, the company diversified into the swimming pool and spa industry with the introduction of our first products: Algatec and Scaletec. For the next several years, these products were marketed directly to independent retail and service trade businesses throughout the West Coast. In the early 1990s, several new products were developed to enhance our product line. Among them included Pooltec, Scaletec Plus, Fountec, and Protect brands. During the mid-1990's, the company test marketed products to the mass retail market with modest success. However, the decision was later made to re-focus our marketing efforts and concentrate on the independent retail sector. With this new effort, the product line became officially known as EasyCare Products. In the early 2000s, to expand EasyCare Products nationally, we began selling our brands through distribution companies and hired manufacturer rep agencies to support the EasyCare line. As a result of this decision, product sales increased significantly. To accommodate increased sales, several automated packaging lines were installed to meet growth demands. The Company continues to research new technologies for both the industrial and swimming pool industries. Our corporate goal is to utilize the latest developments and improve existing products as well as introduce new products that are easier, safer, and more effective. Our motto has always been that great water treatment products simplify and provide outstanding results without confusion. In 2008, we introduced Startup-Tec New Pool start up Treatment to modernize the start up methods in the pool building and plaster industry. To support the efficacy of this product, EasyCare Products is currently sponsoring research being conducted at the National Plaster Council test facility at Cal Poly, in San Luis Obis, California. Thus, we became the first chemical manufacturer in the pool industry to sponsor such tests. In the near future, the company plans to export our brands into the global market in partnership with other distribution companies."
+  },
+  "NavBar": {
+    "ProductsTitle": "Products",
+    "Products": {
+      "Algatec": "Algatec",
+      "Beautec": "Beautec",
+      "Pooltec": "Pooltec",
+      "PooltecWinter": "Pooltec Winter",
+      "ScaletecPlus": "Scaletec Plus",
+      "StartupTec": "Startup-Tec",
+      "Fountec": "Fountec",
+      "Protec": "Protec"
+    },
+    "AboutUs": "About Us",
+    "StoreLocator": "Store Locator",
+    "Staff": "Staff",
+    "Contact": "Contact",
+    "International": "International",
+    "Resources": "Resources"
+  },
+  "Footer": {
+    "Address": "Address: 5361 S. Villa Ave, Fresno, CA 93725",
+    "Hours": "Office Hours: Monday - Friday, 8AM to 5PM",
+    "Phone": "Phone Direct:",
+    "TollFree": "Toll-Free:",
+    "Fax": "Fax:",
+    "Email": "Email:",
+    "EmailAddress": "admin@easycarewater.com",
+    "QuoteTitle": "We Believe in EasyCare",
+    "QuoteBody": "Easycare is lead by a team of innovators, thinkers, and dreamers. Easycare's World Class salesforce bring together some of the worlds most visionary, talented, and respected in the pool industry with cutting-edge products."
+  },
+  "Products": {
+    "Algatec": {
+      "Title": "ALGATEC®",
+      "Tag": "Fast Effective Algae Removal",
+      "Points": [
+        "Kills and controls all algae, green, yellow and black",
+        "Superior effectiveness and fast results within just 4 to 24 hours for most algae",
+        "Eradicates difficult Black Algae growths within 7 to 10 days",
+        "Strongest, fastest acting algaecide available",
+        "Metal-free, non-hazardous to handle, will not foam or stain"
+      ],
+      "Summary": "Algatec® is a highly effective, dual-action algaecide that quickly kills all types of green and yellow algae in 4 to 24 hours. The product also eradicates stubborn black algae growths with minimal brushing. Algatec's® powerful interaction with chlorine based sanitizers help to enhance algae cleanup and removal. This is due to it's alga stat inhibitor function. Algatec® also leaves pool water sparkling clear due to its strong polymeric clarifying action.",
+      "SummaryTitle": "Algatec®",
+      "HowItWorksTitle": "How It Works",
+      "HowItWorks": "Algatecs® unique cationic polymeric compound function as a broad spectrum, non-oxidizing algaecide-microbiocide that kill and control the growth of microorganisms by disturbing their normal metabolic process of the living cell. Algatec® has a powerful synergy with chlorine sanitizes which further enhance algae kill and removal. The product is metal-free, bromine-free, ammonia-free will not cause foam or stain and doesn't remove chlorine from pool.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-algatec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "Beautec": {
+      "Title": "BEAUTEC®",
+      "Tag": "Superior Pool Scale-Stain-Scum Preventative Surface Cleaner",
+      "Points": [
+        "Aggressively prevents scale, stain and scum buildup",
+        "Helps remove existing buildup on surfaces and equipment",
+        "Salt cell descaler, protector and prolongs cell life span",
+        "Controls calcium up to 1,000 ppm and hard silicates up to 300 ppm",
+        "Strongly sequesters iron, copper, and manganese metals",
+        "Removes calcium films, calcium phosphate and waterline buildup",
+        "Long lasting protection, chlorine stable",
+        "Contains no phosphates, phosphonates or acids"
+      ],
+      "Summary": "The ultimate pool surface protection for superior scale, stain, and scum control and removal. New Synertec® polymer technology provides unsurpassed surface protection without phosphates and acids. Beautec® also removes existing scale buildup on tile and salt cell generators without scrubbing and use of harsh acid cleaners. Metal stains due to iron, copper, and manganese are strongly sequestered to prevent surface damage. Beautec® Scale-Stain controller is the only product available today that prevents both softer calcium and harder calcium-silicate scales.",
+      "SummaryTitle": "Beautec®",
+      "HowItWorksTitle": "How It Works",
+      "HowItWorks": "Beautec's® advanced Synertec formulation combines a blend of high performance polymers that utilize a complex mechanism of threshold inhibitor, crystal modification and sequestration to accomplish effective preventative and ongoing removal of mineral scales, deposits, stains, and scum on pool surfaces. Beautec's® exceptional performance is due, in part, to its extreme chlorine stability.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-beautec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "Pooltec": {
+      "Title": "Pooltec®",
+      "Tag": "Pooltec® 3-in-1 Pool Water Treatment",
+      "Points": [
+				"Continuous prevention of green, yellow and black algae. Kills most algae in 4 to 24 hours.",
+				"Strong clarifiers create ultra-clear water.",
+				"Boosts chlorine’s effectiveness up to 6X (600%).",
+				"Improves salt cell’s chlorine output and performance.",
+				"Eliminates chlorine odors & skin-eye irritation."
+    ],
+    "Summary": "Pooltec® 3-in-1 multitask product that kills and prevents all types of algae growth, ultra water clarity, and is a strong chlorine booster for both chlorine and salt pools. When used weekly, Pooltec® synergies with all types of chlorine to boost water quality and chlorine effectiveness. Pooltec® helps increase chlorine residuals in salt pools especially during heavy usage periods. Pooltec® also keeps pool water consistently treated, eliminating the need for cleanup products such as algaecides and clarifiers. The use of Pooltec® provides an easy, year-round pool maintenance solution.",
+    "SummaryTitle": "Pooltec®",
+    "HowItWorksTitle": "How It Works",
+		"HowItWorks": "Pooltecs'® environmentally safe polymers uniquely synergies with all types of sanitizes to provide superior water quality, clarity, and improve water sanitation. Unique cationic polymeric compounds function as a broad spectrum, non-oxidizing algaecide-microbiocide that kill and control the growth of microorganisms by disturbing their normal metabolic process of the living cell. This process archives a super-sanitized condition with average oxidizer level.                                                                                                                                ",
+    "SDSSheetButton": "SDS Sheet",
+    "SDSURL": "/static/assets/files/sds/sds-pooltec.pdf",
+    "BrochureButton": "Brochure" 
+  },
+    "StartupTec": {
+      "Title": "Startup-tec®",
+      "Tag": "An Advanced Treatment for the Prevention of Plaster Dust, Staining and Mottling",
+      "Points": [
+        "Provides cleaner startups with 90%-100% less dust and brushing",
+        "Significant reduction of mottling discoloration on all types of finishes",
+        "Typically eliminates “hot startups” that exposes quartz and aggregates",
+        "Strongly sequesters metal ions that stain surfaces and form calcium film",
+        "Brilliant exposure of pigmented and pebble type finishes",
+        "Advanced multi-sequestrant formulation, no phosphates or acids",
+        "Reduces warranty issues, lawsuits, and replastering of damaged pools",
+        "Swimmers can use pool immediately"
+      ],
+      "Summary": "Prevents plus removes plaster dust - Eliminates tedious surface brushing - Significantly reduces surface mottling discoloration - Exposes aggregates brilliantly with less acid.",
+      "SummaryTitle": "STARTUP-TEC®",
+      "HowItWorksTitle": "",
+      "HowItWorks": "",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-startup-tec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "ScaletecPlus": {
+      "Title": "Scaletec Plus®",
+      "Tag": "Strong pool Surface and tile descaler plus stain remover",
+      "Points": [
+        "Effectively removes calcium buildup on pool surfaces, tile and equipment",
+        "Cleans and restores pool surfaces in just two weeks. Stain remover and sequesters iron, copper, and manganese metals",
+        "Salt cell cleaner and protector, helps optimize chlorine output",
+        "Replaces hazardous acid-washing method and costly tile cleaning",
+        "Advanced non-acidic and ultra-low phosphate Synertec formulation"
+      ],
+      "Summary": "High performance swimming pool calcium descaler, iron stain, scum remover and preventative. First pourable product that removes hard water buildup throughout pool surfaces, tile and all equipment without scrubbing or acids. Pour directly into pool water. Highly effective in preventing iron, copper, and manganese stains. Powerful Synertec formula provides long lasting, affordable protection year-round with just a small monthly application.",
+      "SummaryTitle": "Scaletec Plus®",
+      "HowItWorksTitle": "How It Works",
+      "HowItWorks": "Scaletec Plus® unique Synertec formula involve components that remove both new and old white calcium and mixed composition scales and metal stains. This process involves a combination of super-sequestration, crystal modification - absorption, and threshold inhibition. Scales and stains are both loosen from surfaces and redissolved into pool water which are filtered away or kept in suspension.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-scaletec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "Fountec": {
+      "Title": "Fountec®",
+      "Tag": "",
+      "Points": [
+        "Powerful green algae remover",
+        "Eradicates yellow and black algae",
+        "Removes and kills clinging or stubborn type algae with minimal brushing",
+        "Water clarifiers leaves water ultra-clear",
+        "Non-foaming and non-staining",
+        "No weekly chlorine or testing required",
+        "Prevents regrowth with small weekly dose",
+        "Safe for plants, birds, and animals to drink treated water",
+        "Not safe for aquatic life"
+      ],
+      "Summary": "Kills all types of algae and prevents regrowth in decorative fountains, water gardens, tabletops, and birdbaths. Fountecs' cationic polymers also super-clarify water.",
+      "SummaryTitle": "Fountec®",
+      "HowItWorksTitle": "Special Instructions",
+      "HowItWorks": "Should Algae persit repeat visible algae dosage everyday, to further assist in algae and biofilm removal, shock foutain with household bleach.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-fountec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "Protec": {
+      "Title": "Protec®",
+      "Tag": "",
+      "Points": [
+        "Prevents and removes scale buildup",
+        "Controls water metals and prevents surface stains",
+        "Protects fountain water pumps",
+        "Eliminates distilled water usage",
+        "Small monthly dosage",
+        "Non-acidic",
+        "Environmentally safe",
+        "Treated water safe for birds, plants, and animals including aquatic life"
+      ],
+      "Summary": "Protecs' powerful Synertec cleaners remove and prevent both white calcium scale-deposits and stains (due to iron and copper) on surfaces of decorative; fountains, birdbaths, tabletop fountains, and water gardens.",
+      "SummaryTitle": "Protec®",
+      "HowItWorksTitle": "Special Instructions",
+      "HowItWorks": "Should calcium persist, raise water levels to allow protec to soak deposit. Double the recommended dosage for stubborn calcium.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-protec.pdf",
+      "BrochureButton": "Brochure" 
+    },
+    "PooltecWinter": {
+      "Title": "Pooltec Fall-Winter®",
+      "Tag": "Fall-Winter Pool Treatment",
+      "Points": [
+        "All Season Algaecide",
+        "Water Clarifier",
+        "Non-Chlorine Treatment",
+        "Protection Lasts from fall to Spring",
+        "Strongly sequesters iron, copper, and manganese metals"
+      ],
+      "Summary": "Pooltec Fall-winter Treatment provides strong, lasting winter protection that outlast winterizing kits and other winter treatments. Pooltec gives your customers the assurance that their pool will be clean at spring opening. Pooltec is the only treatment that protects covered, mesh and even uncovered pools.",
+      "SummaryTitle": "Beautec®",
+      "HowItWorksTitle": "How It Works",
+      "HowItWorks": "Start with a clean, balanced pool and if needed, shock pool. Pour 3/4 to one quart of pooltec Fall-Winter Treatment per 10,000 gallons at time of pool closing, along with other closing additives.",
+      "SDSSheetButton": "SDS Sheet",
+      "SDSURL": "/static/assets/files/sds/sds-pooltec.pdf",
+      "BrochureButton": "Brochure" 
+    }
+  }
+}
