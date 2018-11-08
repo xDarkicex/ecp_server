@@ -19,11 +19,14 @@ function onYouTubeIframeAPIReady() {
 </ul>
   <div class="uk-containter">
     <button class="uk-button uk-button-primary" id="sds" onClick="goSDS(); return false;">{{.Translations.Products.Algatec.SDSSheetButton}}</button>
-    <button class="uk-button uk-button-primary">{{.Translations.Products.Algatec.BrochureButton}}</button>
+    <button class="uk-button uk-button-primary" onClick="goBrochure(); return false;">{{.Translations.Products.Algatec.BrochureButton}}</button>
   </div>
   <script type="text/javascript">
       function goSDS() {
         window.location.href = {{.Translations.Products.Algatec.SDSURL}}
+      }
+      function goBrochure() {
+        window.location.href = {{.Translations.Products.Algatec.SDSBrochure}}
       }
   </script>
 </div>

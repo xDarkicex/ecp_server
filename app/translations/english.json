@@ -61,6 +61,7 @@
       "HowItWorks": "Algatecs® unique cationic polymeric compound function as a broad spectrum, non-oxidizing algaecide-microbiocide that kill and control the growth of microorganisms by disturbing their normal metabolic process of the living cell. Algatec® has a powerful synergy with chlorine sanitizes which further enhance algae kill and removal. The product is metal-free, bromine-free, ammonia-free will not cause foam or stain and doesn't remove chlorine from pool.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-algatec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-algatec.pdf",
       "BrochureButton": "Brochure" 
     },
     "Beautec": {
@@ -82,6 +83,7 @@
       "HowItWorks": "Beautec's® advanced Synertec formulation combines a blend of high performance polymers that utilize a complex mechanism of threshold inhibitor, crystal modification and sequestration to accomplish effective preventative and ongoing removal of mineral scales, deposits, stains, and scum on pool surfaces. Beautec's® exceptional performance is due, in part, to its extreme chlorine stability.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-beautec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-beautec.pdf",
       "BrochureButton": "Brochure" 
     },
     "Pooltec": {
@@ -100,6 +102,7 @@
 		"HowItWorks": "Pooltecs'® environmentally safe polymers uniquely synergies with all types of sanitizes to provide superior water quality, clarity, and improve water sanitation. Unique cationic polymeric compounds function as a broad spectrum, non-oxidizing algaecide-microbiocide that kill and control the growth of microorganisms by disturbing their normal metabolic process of the living cell. This process archives a super-sanitized condition with average oxidizer level.                                                                                                                                ",
     "SDSSheetButton": "SDS Sheet",
     "SDSURL": "/static/assets/files/sds/sds-pooltec.pdf",
+    "SDSBrochure": "/static/assets/files/sds/brochure-pooltec.pdf",
     "BrochureButton": "Brochure" 
   },
     "StartupTec": {
@@ -121,6 +124,7 @@
       "HowItWorks": "",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-startup-tec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-startup-tec.pdf",
       "BrochureButton": "Brochure" 
     },
     "ScaletecPlus": {
@@ -139,6 +143,7 @@
       "HowItWorks": "Scaletec Plus® unique Synertec formula involve components that remove both new and old white calcium and mixed composition scales and metal stains. This process involves a combination of super-sequestration, crystal modification - absorption, and threshold inhibition. Scales and stains are both loosen from surfaces and redissolved into pool water which are filtered away or kept in suspension.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-scaletec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-scaletec.pdf",
       "BrochureButton": "Brochure" 
     },
     "Fountec": {
@@ -161,6 +166,7 @@
       "HowItWorks": "Should Algae persit repeat visible algae dosage everyday, to further assist in algae and biofilm removal, shock foutain with household bleach.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-fountec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-fountain.pdf",
       "BrochureButton": "Brochure" 
     },
     "Protec": {
@@ -182,6 +188,7 @@
       "HowItWorks": "Should calcium persist, raise water levels to allow protec to soak deposit. Double the recommended dosage for stubborn calcium.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-protec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-foutain.pdf",
       "BrochureButton": "Brochure" 
     },
     "PooltecWinter": {
@@ -195,11 +202,12 @@
         "Strongly sequesters iron, copper, and manganese metals"
       ],
       "Summary": "Pooltec Fall-winter Treatment provides strong, lasting winter protection that outlast winterizing kits and other winter treatments. Pooltec gives your customers the assurance that their pool will be clean at spring opening. Pooltec is the only treatment that protects covered, mesh and even uncovered pools.",
-      "SummaryTitle": "Beautec®",
+      "SummaryTitle": "Pooltec®",
       "HowItWorksTitle": "How It Works",
       "HowItWorks": "Start with a clean, balanced pool and if needed, shock pool. Pour 3/4 to one quart of pooltec Fall-Winter Treatment per 10,000 gallons at time of pool closing, along with other closing additives.",
       "SDSSheetButton": "SDS Sheet",
       "SDSURL": "/static/assets/files/sds/sds-pooltec.pdf",
+      "SDSBrochure": "/static/assets/files/sds/brochure-pooltecWinter.pdf",
       "BrochureButton": "Brochure" 
     }
   }

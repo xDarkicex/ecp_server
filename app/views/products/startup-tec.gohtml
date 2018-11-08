@@ -18,12 +18,15 @@ function onYouTubeIframeAPIReady() {
 				{{ end }}
 </ul>
   <div class="uk-containter">
-    <button class="uk-button uk-button-primary"  onClick="goSDS(); return false;">{{.Translations.Products.StartupTec.SDSSheetButton}}</button>
-    <button class="uk-button uk-button-primary">{{.Translations.Products.StartupTec.BrochureButton}}</button>
+    <button class="uk-button uk-button-primary" onClick="goSDS(); return false;">{{.Translations.Products.StartupTec.SDSSheetButton}}</button>
+    <button class="uk-button uk-button-primary" onClick="goBrochure(); return false;">{{.Translations.Products.StartupTec.BrochureButton}}</button>
   </div>
   <script type="text/javascript">
       function goSDS() {
         window.location.href = {{.Translations.Products.StartupTec.SDSURL}}
+      }
+      function goBrochure() {
+        window.location.href = {{.Translations.Products.StartupTec.SDSBrochure}}
       }
   </script>
 </div>
